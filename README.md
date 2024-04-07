@@ -20,8 +20,13 @@ Then, install the required Python packages:
 pip install -r requirements.txt
 ```
 
+Then, download the dataset:
+
+[Download Data.zip](https://www.dropbox.com/scl/fi/9tm1b7qc9gsjrtq2xitqm/Data.zip?rlkey=517z4tshx12bz75608ub8ch1f&dl=0)
+
+
 ## Usage
-Detailed usage instructions will be provided here, including how to prepare your dataset, train the model, and perform fracture analysis on new images.
+Detailed usage instructions will be provided here, 
 
 ## Requirements
 This project is built using Python 3.8+. The following libraries are required:
@@ -35,11 +40,3 @@ This project is built using Python 3.8+. The following libraries are required:
 All dependencies can be installed via the provided `requirements.txt` file.
 
 ---
-
-For the `requirements.txt` file, we'll include the dependencies identified from your Jupyter notebook. Let's prepare that file.
-
-The `requirements.txt` file has been prepared and can be downloaded from the link below. This file includes all the necessary packages to run the Bone Fracture Analysis project.
-
-[Download requirements.txt](sandbox:/mnt/data/requirements.txt)
-
-You can use this file in your project repository to help users install all the required packages with ease. Just include instructions in your README for using `pip install -r requirements.txt` to set up the environment.
