@@ -20,8 +20,13 @@ Then, install the required Python packages:
 pip install -r requirements.txt
 ```
 
+Then, download the dataset:
+```
+[Download Data.zip](https://www.dropbox.com/scl/fi/9tm1b7qc9gsjrtq2xitqm/Data.zip?rlkey=517z4tshx12bz75608ub8ch1f&dl=0)
+```
+
 ## Usage
-Detailed usage instructions will be provided here, including how to prepare your dataset, train the model, and perform fracture analysis on new images.
+Detailed usage instructions will be provided here, 
 
 ## Requirements
 This project is built using Python 3.8+. The following libraries are required:
