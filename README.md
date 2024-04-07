@@ -40,11 +40,3 @@ This project is built using Python 3.8+. The following libraries are required:
 All dependencies can be installed via the provided `requirements.txt` file.
 
 ---
-
-For the `requirements.txt` file, we'll include the dependencies identified from your Jupyter notebook. Let's prepare that file.
-
-The `requirements.txt` file has been prepared and can be downloaded from the link below. This file includes all the necessary packages to run the Bone Fracture Analysis project.
-
-[Download requirements.txt](sandbox:/mnt/data/requirements.txt)
-
-You can use this file in your project repository to help users install all the required packages with ease. Just include instructions in your README for using `pip install -r requirements.txt` to set up the environment.
