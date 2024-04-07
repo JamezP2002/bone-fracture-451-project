@@ -1,0 +1,6 @@
+fastai
+numpy
+pandas
+torch
+scikit-learn
+PyYAML
